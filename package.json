@@ -1,0 +1,24 @@
+{
+  "name": "vanillajs-boilerplate",
+  "version": "1.0.0",
+  "description": "common reason for > The server responded with a non-JavaScript MIME type of \"text/html\". Strict MIME type checking is enforced for module scripts per HTML spec. import was missing \".js\" main import missing type=\"module\" bas file path ref",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seankps/node-vanillajs-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seankps/node-vanillajs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Seankps/node-vanillajs-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
