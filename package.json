@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Seankps/node-vanillajs-boilerplate#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "nodemon": "^1.18.9"
   }
 }
